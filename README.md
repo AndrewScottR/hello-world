@@ -1,2 +1,3 @@
 # hello-world
-hello world repository for FreeCodeCamp
+
+I am learning to program :D
